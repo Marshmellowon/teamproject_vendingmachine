@@ -200,9 +200,11 @@ public void confirm() {
 
 자세한 코드는 [자판기 팀프로젝트](https://github.com/Algorithmteam2020/teamproject_vendingmachine) 를 참고.
 
-7. 실행  
-   ![자판기 실행 화면](https://github.com/Marshmellowon/imagefile/blob/master/%EC%9E%90%ED%8C%90%EA%B8%B0%20%EC%8B%A4%ED%96%89.JPG?raw=true)  
-   자판기 실행 화면 이다.
+### 7. 실행
 
-8. 동작 영상  
-   [![image](https://github.com/Marshmellowon/imagefile/blob/master/%EC%9E%90%ED%8C%90%EA%B8%B0%20%EC%8B%A4%ED%96%89.JPG?raw=true)](https://www.youtube.com/embed/q6rl-1PpXjU)
+![자판기 실행 화면](https://github.com/Marshmellowon/imagefile/blob/master/%EC%9E%90%ED%8C%90%EA%B8%B0%20%EC%8B%A4%ED%96%89.JPG?raw=true)  
+ 자판기 실행 화면 이다.
+
+### 8. 동작 영상
+
+[![image](https://github.com/Marshmellowon/imagefile/blob/master/%EC%9E%90%ED%8C%90%EA%B8%B0%20%EC%8B%A4%ED%96%89.JPG?raw=true)](https://www.youtube.com/embed/q6rl-1PpXjU)
