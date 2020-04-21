@@ -68,7 +68,7 @@ FXML파일을 생성하는데 사용된다.
 
 6. Controller.java
 
-- 더하기 버튼 동작
+* 더하기 버튼 동작
 
 ```java
 public void plus(ActionEvent event) {
@@ -89,7 +89,7 @@ public void plus(ActionEvent event) {
 - 각 더하기 버튼을 눌렀을 경우의 동작이다.
 - 수량 Textfield의 수량을 int형으로 변경하여 1을 더한 수량값을 다시수량 Textfield에 넣는다.
 
-- 빼기 버튼 동작
+* 빼기 버튼 동작
 
 ```java
 public void sub1(ActionEvent event) {
@@ -122,7 +122,7 @@ public void sub1(ActionEvent event) {
 - 수량 빼기 버튼의 동작이다.
 - 수량 Textfield의 수량을 int형으로 변경하여 1을 빼준뒤 다시 수량 Textfield에 넣는다.
 
-- 현재 금액 Textfield
+* 현재 금액 Textfield
 
 ```java
 public void func(int t) {
