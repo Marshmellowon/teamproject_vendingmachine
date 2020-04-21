@@ -69,4 +69,4 @@ Main.java의 구성이다. FXMLLoader로 FXML을 연결 시켜 준다.
 자판기 실행 화면 이다.   
 
 8. 동작 영상   
-[![vending machine](https://github.com/Marshmellowon/imagefile/blob/master/%EC%9E%90%ED%8C%90%EA%B8%B0%20%EC%8B%A4%ED%96%89.JPG?raw=true)](https://www.youtube.com/embed/q6rl-1PpXjU)
+[![vending machine](https://img.youtube.com/vi/q6rl-1PpXjU/0.jpg)](https://youtube.com/watch?v=q6rl-1PpXjU)
