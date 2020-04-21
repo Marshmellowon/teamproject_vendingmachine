@@ -65,8 +65,8 @@ Main.java의 구성이다. FXMLLoader로 FXML을 연결 시켜 준다.
 창의 크기와 title을 바꿀 수 있다.   
 
 7. 실행   
-[자판기 실행 화면]   
+![자판기 실행 화면](https://github.com/Marshmellowon/imagefile/blob/master/%EC%9E%90%ED%8C%90%EA%B8%B0%20%EC%8B%A4%ED%96%89.JPG?raw=true)   
 자판기 실행 화면 이다.   
 
 8. 동작 영상   
-[영상]
+[![vending machine](https://github.com/Marshmellowon/imagefile/blob/master/%EC%9E%90%ED%8C%90%EA%B8%B0%20%EC%8B%A4%ED%96%89.JPG?raw=true)](<iframe width="560" height="315" src="https://www.youtube.com/embed/q6rl-1PpXjU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>)
