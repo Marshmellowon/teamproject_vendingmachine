@@ -209,7 +209,7 @@ public void confirm() {
 
 [![image](https://github.com/Marshmellowon/imagefile/blob/master/%EC%9E%90%ED%8C%90%EA%B8%B0%20%EC%8B%A4%ED%96%89.JPG?raw=true)](https://www.youtube.com/embed/q6rl-1PpXjU)
    
-### 9. 정리
+## 9. 정리
 > 자판기에서 남은 거스름돈을 보여주는 프로그램을 짜 보았다. 처음에 JavaFx와 Scene Builder를 연결하는 과정에서 시간이 많이 걸렸다.    
 > 라이브러리 설정과 VM Option이 중요한 포인트였다. 연결이 된 후에는 레이아웃을 만들고 동작을 할 버튼에서 발생할 이벤트를 만들어주는것은 쉬웠다.   
 > 더하기 버튼과 빼기 버튼에서 TextField를 파라미터로 불러와서 하나의 메서드에 여러개의 버튼을 연결하고 싶었지만 실패했다.
